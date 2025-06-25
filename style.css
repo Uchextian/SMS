@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+}
+/* General */
+.fs-7{
+    font-size: 10px;
+    font-weight:300;
+}
+.fs-8{
+    font-size: 10px;
+}
+.bg-red{
+    background: #400101 !important;
+}
+.bg-brown{
+    background: #A62103 !important;
+}
+.text-brown{
+    color: #A62103;
+}
+/* General End */
+/* NAVBAR SECTION*/
+
+/* NAVBAR SECTION END*/
+
+/* HERO SECTION */
+.bg-img{
+    background: url(/image/hero1.jpg) no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+/* HERO SECTION END */
+
+/* LOGOIN PAGE */
+.card-h{
+    height: 313px;
+}
